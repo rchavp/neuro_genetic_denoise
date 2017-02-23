@@ -2,9 +2,9 @@
 
 This project is a virtual lab to experiment with Autoencoder Denoising neural nets, using a genetic learning approach.
 
-I decided to implement my own genetic network for the time being because of the degrees of freedom it provides when selecting the overall parameters of the whole system. Since Autoencoder nets divert from ordinary abstraction based nets, this freedom will leverage the subsequent paths to follow once I gather enough data to assess the most appropriate ones. It is worth mentioneing that this is a one way trip where we destination is yet unknown.
+I decided to implement my own genetic network for the time being because of the degrees of freedom it provides when selecting the overall parameters of the whole system. Since Autoencoder nets divert from ordinary abstraction based nets, this freedom will leverage the subsequent paths to follow once I gather enough data to assess the most appropriate ones. It is worth mentioning that this is a one way trip where the destination is yet unknown. Baby steps.
 
-For later stages and depending on the aforementioned factors I nmay decide to introduce a more manistream neural net framework.
+For later stages and depending on the aforementioned factors I may decide to introduce a more manistream neural net framework.
 
 
 For more info about Autoencoder Denoising you may read the excellent paper from the Journal of Machine Learning Research here **:
